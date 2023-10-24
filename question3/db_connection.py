@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
+# AUTHOR: Kevin Vi
+# FILENAME: db_connection
 # SPECIFICATION: description of the program
 # FOR: CS 4250- Assignment #1
 # TIME SPENT: how long it took you to complete the assignment
